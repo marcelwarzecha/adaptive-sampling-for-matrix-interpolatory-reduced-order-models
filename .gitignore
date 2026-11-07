@@ -1,0 +1,7 @@
+.DS_Store
+*.asv
+*.tmp.mat
+__pycache__/
+/results/
+/analysis/paper_figures/figures/
+/analysis/results_summary/summary.md
